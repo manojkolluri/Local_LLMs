@@ -1,2 +1,2 @@
-# Local_LLMs
+# Building with Local_LLMs
 This Repo is built with the intention of experimenting with LOCAL LLMs and ways to Enhance them.
